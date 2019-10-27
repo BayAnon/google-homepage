@@ -1,4 +1,4 @@
-li{
+li {
     list-style-type: none;
     display: inline;
     padding-top: 10px;
@@ -7,21 +7,15 @@ li{
     margin: 10px;  
 }
 
-.apps-button img{
-    
-}
 
 #apps-button { 
     height: 37px;
     width: 78px;
     border-radius: 5px;
-    padding-top: 0;
+    margin-top: 0;
     
 }
 
-#sign-in{
-    
-}
 
 .navbar, .rightnav{
     font-family: sans-serif;
@@ -36,6 +30,8 @@ li{
 
 
 .google-logo{
+    display: block;
+    margin: 100px auto;
     
 }
 
